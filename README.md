@@ -2,6 +2,11 @@
 
 A template for building asynchronous CLI applications with Tokio runtime.
 
+## License
+
+This work is released under Unlicense or CC0 (waiving all rights, as much as legally possible in Japan). However, I personally request that you **delete the Git history before using this template**.
+
+
 ## Overview
 
 This project serves as a starting template for developing interactive command-line applications that combine async REPL input with concurrent processing tasks (e.g., network communication).
@@ -85,7 +90,3 @@ The following commands will exit the application:
 - `quit`
 - `q`
 - Ctrl+C
-
-## License
-
-This template is free to use and modify.
